@@ -10,6 +10,6 @@ https://www.researchgate.net/publication/261397611_Application_of_Fuzzy_Logic_fo
 ![image](https://user-images.githubusercontent.com/120903301/218487291-e053ef86-fd52-4d0d-be41-e995259fe2a2.png)
 
 ### Guidelines
-![image](https://user-images.githubusercontent.com/120903301/218487579-b30dee95-8ac4-49ad-ba93-5108bba83ed3.png)
+![image](https://user-images.githubusercontent.com/120903301/218487990-0056f141-4ec7-427e-bab1-fcdaee32bfb0.png)
 
 ### etc.
