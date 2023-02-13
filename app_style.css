@@ -1,0 +1,62 @@
+QLabel {
+    font-size: 18px;
+    font-family: Calibri, Arial, sans-serif;
+    letter-spacing: 0px;
+}
+QPushButton {
+    font: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    min-width: 10em;
+    padding: 6px;
+}
+QSpinBox {
+    padding: 2px;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+}
+QDockWidget {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 5px;;
+}
+
+QListView{
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+}
+QMenu{
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 14px;
+}
+QMenuBar {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 14px;
+}
+QTableView{
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+}
+
+QHeaderView{
+    font: bold;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+}
+
+QStatusBar{
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+}
+
+QLineEdit{
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+}
+
+
+
+
+
+background-color: #525252;
